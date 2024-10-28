@@ -4,23 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "cd client && npm install || echo 'Failed to install in client"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^1.7.2",
-    "body-parser": "^1.20.2",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "tailwindcss": "^3.4.6"
-  },
-  "devDependencies": {
-    "concurrently": "^8.2.2",
-    "eslint": "^9.7.0",
-    "jest": "^29.7.0",
-    "nodemon": "^3.1.4"
-  }
+  "license": "ISC"
 }
